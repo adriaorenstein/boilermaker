@@ -1,0 +1,7 @@
+{
+  "presets": ["@babel/preset-react"]
+}
+
+//these presets have already been npm installed
+//babel tells us how to parse our code
+//babel/preset-env allows you to use latest syntax without worrying about which target environments need to use it
